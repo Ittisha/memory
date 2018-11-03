@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA #
+.idea
+
+# VS Code #
+.vscode
+
+# Sublime Text #
+*.sublime*
+
+# Log files
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Production
+build/
